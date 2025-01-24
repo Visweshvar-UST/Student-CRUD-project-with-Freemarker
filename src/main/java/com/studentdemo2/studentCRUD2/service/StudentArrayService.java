@@ -1,10 +1,11 @@
-package com.studentdemo2.studentCRUD1.service;
+package com.studentdemo2.studentCRUD2.service;
 
-import com.studentdemo2.studentCRUD1.model.Student;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.Optional;
+
+import com.studentdemo2.studentCRUD2.model.Student;
 
 @Service
 public class StudentArrayService {
